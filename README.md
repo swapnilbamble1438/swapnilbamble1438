@@ -2,6 +2,7 @@
 <h3 align="center">Learning Fullstack Development in Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
+
 -  BSC (Computer Science) Graduate from University of Mumbai
 
 -  Knowledge of Working with Java J2EE and Springboot Applications.
