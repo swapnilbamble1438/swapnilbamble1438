@@ -27,25 +27,33 @@
 </p>
 
 ## 🛠 Skills
-
-<div class="row">
-  <div class="col-lg-6 col-md-6 col-sm-6">
-  Java, Advance Java   
-  </div>
- <div class="col-lg-6 col-md-6 col-sm-6">
-  HTML, CSS, Bootstrap
-  </div>
- <div class="col-lg-6 col-md-6 col-sm-6">
-JSP, Servlet, MySQL 
-  </div>
-  <div class="col-lg-6 col-md-6 col-sm-6">
-  Javascript, JQuery
-  </div>
- <div class="col-lg-6 col-md-6 col-sm-6">
-Hibernate, JPA, J2EE 
-  </div>
-  <div class="col-lg-6 col-md-6 col-sm-6">
-  Springboot, Angular
+<div class="container">
+    <div class="row">
+      
+        <div class="col-lg-6 col-md-6 col-sm-6">
+        Java, Advance Java   
+        </div>
+        
+       <div class="col-lg-6 col-md-6 col-sm-6">
+        HTML, CSS, Bootstrap
+        </div>
+        
+       <div class="col-lg-6 col-md-6 col-sm-6">
+      JSP, Servlet, MySQL 
+        </div>
+        
+        <div class="col-lg-6 col-md-6 col-sm-6">
+        Javascript, JQuery
+        </div>
+        
+       <div class="col-lg-6 col-md-6 col-sm-6">
+      Hibernate, JPA, J2EE 
+        </div>
+        
+        <div class="col-lg-6 col-md-6 col-sm-6">
+        Springboot, Angular
+        </div>
+        
   </div>
 </div>
 
