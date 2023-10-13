@@ -21,7 +21,7 @@
 
 - Take a look at my project [Voting Application](https://swapnilbamble1438.github.io/VotingApplication/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/swapnilbamble1438](https://github.com/swapnilbamble1438)
+- 👨‍💻 All of my projects are available at [My Repository](https://github.com/swapnilbamble1438?tab=repositories)
 
 - Contact me at------> <b>8070972218<b>
 
