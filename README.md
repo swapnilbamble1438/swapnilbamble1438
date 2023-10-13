@@ -7,7 +7,7 @@
 
 -  Knowledge of Working with Java J2EE and Springboot Applications.
 
--<h3> Currently looking for an opportunity to work as a Java Developer<h3>
+-<h3> Currently looking for an opportunity to work as a Java Developer</h3>
   
 - 🌱 I’m currently learning **Springboot Microservices**
 
