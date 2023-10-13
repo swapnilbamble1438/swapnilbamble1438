@@ -30,9 +30,9 @@
 
       
 Java, Advance Java   &ensp;&ensp;&ensp;&ensp;&ensp;       HTML, CSS, Bootstrap
-        <br>
+        <br><br>
 JSP, Servlet, MySQL    &ensp;&ensp;&ensp;&ensp;&ensp;     Javascript, JQuery
-        <br>
+        <br><br>
 Hibernate, JPA, J2EE     &ensp;&ensp;&ensp;&ensp;&ensp;   Springboot, Angular
         
 
