@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/swapnilbamble1438](https://github.com/swapnilbamble1438)
 
-- Contact me at 8070972218
+- Contact me at <b>8070972218<b>
 
 - 📫 How to reach me **swapnilbamble4@gmail.com**
 
