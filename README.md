@@ -29,11 +29,11 @@
 ## 🛠 Skills
 
       
-Java, Advance Java   &ensp;&ensp;&ensp;&ensp;&ensp;       HTML, CSS, Bootstrap
+Java &ensp;&ensp;&ensp;&ensp;&ensp; Advance Java &ensp;&ensp;&ensp;&ensp;&ensp; JSP &ensp;&ensp;&ensp;&ensp;&ensp; Servlet &ensp;&ensp;&ensp;&ensp;&ensp; MySQL       
         <br><br>
-JSP, Servlet, MySQL    &ensp;&ensp;&ensp;&ensp;&ensp;     Javascript, JQuery
+HTML &ensp;&ensp;&ensp;&ensp;&ensp; CSS &ensp;&ensp;&ensp;&ensp;&ensp; Bootstrap &ensp;&ensp;&ensp;&ensp;&ensp; Javascript &ensp;&ensp;&ensp;&ensp;&ensp; JQuery
         <br><br>
-Hibernate, JPA, J2EE     &ensp;&ensp;&ensp;&ensp;&ensp;   Springboot, Angular
+Hibernate &ensp;&ensp;&ensp;&ensp;&ensp; JPA &ensp;&ensp;&ensp;&ensp;&ensp; J2EE &ensp;&ensp;&ensp;&ensp;&ensp; Springboot &ensp;&ensp;&ensp;&ensp;&ensp; Angular
         
 
 
