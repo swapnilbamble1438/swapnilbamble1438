@@ -5,7 +5,13 @@
 
 -  BSC (Computer Science) Graduate from University of Mumbai
 
--  Knowledge of Working with Java J2EE and Springboot Applications.
+-  Completed Certification in Fullstack Development in Java.
+
+-  Fresher
+
+-  But almost two years of learning and hands-on experience in Java.
+
+- And Knowledge of Working with Java J2EE and Springboot Applications.
 
 - <h3> Currently looking for an opportunity to work as a Java Developer</h3>
   
