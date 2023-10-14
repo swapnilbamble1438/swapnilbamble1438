@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Swapnil Bamble</h1>
-<h3 align="center">Learning Fullstack Development in Java</h3>
+<h1>Hi 👋, I'm Swapnil Bamble</h1>
+<h3>Learning Fullstack Development in Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
 
