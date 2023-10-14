@@ -1,6 +1,6 @@
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
 <td>
 <h1>Hi 👋, I'm Swapnil Bamble</h1>                              
