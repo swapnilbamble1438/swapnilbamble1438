@@ -56,16 +56,16 @@
   clear: both;
 }
 </style>
-<div class="row" style="row">
-  <div class="col"  style="Column">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="col"  style="Column">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
+  <div style="table-layout: auto; box-sizing: border-box;">
+        <div style="float: left; width: 50%; padding: 10px;">
+          <h2 style=>Column 1</h2>
+          <p>Some text..</p>
+        </div>
+        <div style="float: left; width: 50%; padding: 10px;">
+          <h2>Column 2</h2>
+          <p>Some text..</p>
+        </div>
+      </div>
 
 <b>  
 Java &ensp;&ensp;&ensp;&ensp;&ensp; Advance Java &ensp;&ensp;&ensp;&ensp;&ensp; JSP &ensp;&ensp;&ensp;&ensp;&ensp; Servlet &ensp;&ensp;&ensp;&ensp;&ensp; MySQL   <br><br>
