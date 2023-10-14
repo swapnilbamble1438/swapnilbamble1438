@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Swapnil Bamble</h1>                              <img src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/3479684c-063b-4ee5-8b05-4682aca77e06" height="100px">
+<h1>Hi 👋, I'm Swapnil Bamble</h1>                              <img src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/3479684c-063b-4ee5-8b05-4682aca77e06" height="200px">
 <h3>Learning Fullstack Development in Java</h3>                
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
