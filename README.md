@@ -1,17 +1,9 @@
 
-<div class="container">
-<div class="row">
-
-<div class="col-lg-6 col-md-6 col-sm-6">
 <h1>Hi 👋, I'm Swapnil Bamble</h1>                              
 <h3>Learning Fullstack Development in Java</h3>   
-</div>
-<div class="col-lg-6 col-md-6 col-sm-6">
-<img src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/3479684c-063b-4ee5-8b05-4682aca77e06" height="200px">
-</div>
 
-</div>
-</div>
+<img align="right" alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/3479684c-063b-4ee5-8b05-4682aca77e06" height="200px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
 
