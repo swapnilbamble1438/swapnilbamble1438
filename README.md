@@ -56,7 +56,7 @@
   clear: both;
 }
 </style>
-  <div style="box-sizing: border-box;">
+  <div  style="table-layout: auto; box-sizing: border-box; content:''; display: table; clear: both;"">
         <div style="float: left; width: 50%; padding: 10px;">
           <h2 style=>Column 1</h2>
           <p>Some text..</p>
