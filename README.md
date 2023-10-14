@@ -38,8 +38,8 @@
 ## 🛠 Skills
 
 <b>  
-Java &ensp;&ensp;&ensp;&ensp;&ensp; Advance Java &ensp;&ensp;&ensp;&ensp;&ensp; JSP &ensp;&ensp;&ensp;&ensp;&ensp; Servlet &ensp;&ensp;&ensp;&ensp;&ensp; MySQL   &ensp;&ensp;&ensp;&ensp;&ensp;
-HTML &ensp;&ensp;&ensp;&ensp;&ensp; CSS &ensp;&ensp;&ensp;&ensp;&ensp; Bootstrap &ensp;&ensp;&ensp;&ensp;&ensp; Javascript &ensp;&ensp;&ensp;&ensp;&ensp; JQuery  &ensp;&ensp;&ensp;&ensp;&ensp;
+Java &ensp;&ensp;&ensp;&ensp;&ensp; Advance Java &ensp;&ensp;&ensp;&ensp;&ensp; JSP &ensp;&ensp;&ensp;&ensp;&ensp; Servlet &ensp;&ensp;&ensp;&ensp;&ensp; MySQL   <br><br>
+HTML &ensp;&ensp;&ensp;&ensp;&ensp; CSS &ensp;&ensp;&ensp;&ensp;&ensp; Bootstrap &ensp;&ensp;&ensp;&ensp;&ensp; Javascript &ensp;&ensp;&ensp;&ensp;&ensp; JQuery  <br><br>
 Hibernate &ensp;&ensp;&ensp;&ensp;&ensp; JPA &ensp;&ensp;&ensp;&ensp;&ensp; J2EE &ensp;&ensp;&ensp;&ensp;&ensp; Springboot &ensp;&ensp;&ensp;&ensp;&ensp; Angular
 </b>
 
