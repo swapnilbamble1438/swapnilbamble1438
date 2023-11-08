@@ -16,7 +16,7 @@
 
 -  Fresher
 
--  But almost two years of learning and hands-on experience in Java
+-  But almost two years of relevant experience in Java
 
 - And Knowledge of Working with Java J2EE and Springboot Applications
 
