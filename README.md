@@ -18,7 +18,7 @@
 
 -  But almost two years of relevant experience in Java
 
-- And Knowledge of building Java J2EE and Springboot Applications
+- And good knowledge base for developing Java J2EE and Springboot Applications
 
 - <h3> Currently looking for an opportunity to work as a Java Developer</h3>
   
