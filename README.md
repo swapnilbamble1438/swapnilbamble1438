@@ -50,7 +50,9 @@ Javascript &ensp;&ensp;&ensp;&ensp;&ensp; JQuery  <br><br>
 
 Hibernate &ensp;&ensp;&ensp;&ensp;&ensp; JPA <br><br>
 
-J2EE &ensp;&ensp;&ensp;&ensp;&ensp; Springboot &ensp;&ensp;&ensp;&ensp;&ensp; Angular
+J2EE &ensp;&ensp;&ensp;&ensp;&ensp; Springboot <br><br>
+
+Angular &ensp;&ensp;&ensp;&ensp;&ensp; React
 </h3>
 
 
