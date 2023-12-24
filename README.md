@@ -48,11 +48,11 @@ HTML &ensp;&ensp;&ensp;&ensp;&ensp; CSS &ensp;&ensp;&ensp;&ensp;&ensp; Bootstrap
 
 Javascript &ensp;&ensp;&ensp;&ensp;&ensp; AJAX  <br><br> 
 
-JQuery &ensp;&ensp;&ensp;&ensp;&ensp; <b>J2EE</b>  <br><br> 
+JQuery &ensp;&ensp;&ensp;&ensp;&ensp; <b style="color: green">J2EE</b>  <br><br> 
 
 Hibernate &ensp;&ensp;&ensp;&ensp;&ensp; JPA <br><br>
 
-Spring &ensp;&ensp;&ensp;&ensp;&ensp; SpringMVC &ensp;&ensp;&ensp;&ensp;&ensp; <b>Springboot</b> <br><br>
+Spring &ensp;&ensp;&ensp;&ensp;&ensp; SpringMVC &ensp;&ensp;&ensp;&ensp;&ensp; <b style="color: green">Springboot</b> <br><br>
 
 Angular &ensp;&ensp;&ensp;&ensp;&ensp; React
 </h3>
