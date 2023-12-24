@@ -46,11 +46,13 @@ JSP &ensp;&ensp;&ensp;&ensp;&ensp; Servlet &ensp;&ensp;&ensp;&ensp;&ensp; MySQL 
 
 HTML &ensp;&ensp;&ensp;&ensp;&ensp; CSS &ensp;&ensp;&ensp;&ensp;&ensp; Bootstrap <br><br>
 
-Javascript &ensp;&ensp;&ensp;&ensp;&ensp; JQuery  <br><br> 
+Javascript &ensp;&ensp;&ensp;&ensp;&ensp; AJAX  <br><br> 
+
+JQuery &ensp;&ensp;&ensp;&ensp;&ensp; <b>J2EE</b>  <br><br> 
 
 Hibernate &ensp;&ensp;&ensp;&ensp;&ensp; JPA <br><br>
 
-J2EE &ensp;&ensp;&ensp;&ensp;&ensp; SpringMVC &ensp;&ensp;&ensp;&ensp;&ensp; Springboot <br><br>
+Spring &ensp;&ensp;&ensp;&ensp;&ensp; SpringMVC &ensp;&ensp;&ensp;&ensp;&ensp; <b>Springboot</b> <br><br>
 
 Angular &ensp;&ensp;&ensp;&ensp;&ensp; React
 </h3>
