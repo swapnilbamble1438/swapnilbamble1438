@@ -24,11 +24,13 @@
   
 - 🌱 I’m currently learning **Springboot Microservices**
 
-- Take a look at my project [Ecommerce Application](https://swapnilbamble1438.github.io/EcommerceApplication/)
+- ** Projects completed**
 
-- Take a look at my project [Voting Application](https://swapnilbamble1438.github.io/VotingApplication/)
+- [Ecommerce Application](https://swapnilbamble1438.github.io/EcommerceApplication/) - Java J2EE
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
+- [Voting Application](https://swapnilbamble1438.github.io/VotingApplication/) - Springboot, Thymeleaf
+
+- 👨‍💻 All of my work is available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
 
 - 📫 How to reach me **swapnilbamble4@gmail.com**
 
@@ -54,7 +56,7 @@ JPA &ensp;&ensp;&ensp;&ensp;&ensp; Hibernate <br><br>
 
 Spring &ensp;&ensp;&ensp;&ensp;&ensp; SpringMVC &ensp;&ensp;&ensp;&ensp;&ensp; Springboot <br><br>
 
-Angular &ensp;&ensp;&ensp;&ensp;&ensp; React
+Thymeleaf  &ensp;&ensp;&ensp;&ensp;&ensp; Angular &ensp;&ensp;&ensp;&ensp;&ensp; React
 </h3>
 
 
