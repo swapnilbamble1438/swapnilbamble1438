@@ -24,11 +24,21 @@
   
 - 🌱 I’m currently learning **Springboot Microservices**
 
-- ** Projects completed**
+- ## Projects completed 
 
-- [Ecommerce Application](https://swapnilbamble1438.github.io/EcommerceApplication/) - Java J2EE
+- [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApp) - Java J2EE
 
-- [Voting Application](https://swapnilbamble1438.github.io/VotingApplication/) - Springboot, Thymeleaf
+- [Voting Application](https://github.com/swapnilbamble1438/VotingApp) - Springboot, Thymeleaf
+
+- [Blog Application](https://github.com/swapnilbamble1438/GoBlog) - Java J2EE
+
+- [Contact Manager](https://github.com/swapnilbamble1438/ContactManager) - Springboot, Thymeleaf
+
+-  [Exam Portal](https://github.com/swapnilbamble1438/ExamPortal) - Springboot, Angular
+
+-  [Blog Application / Backend API's Application](https://github.com/swapnilbamble1438/BlogAppApis) - Springboot, React
+
+- [Hotel Ratings](https://github.com/swapnilbamble1438/HotelRatings) - Springboot, Microservices, Thymeleaf
 
 - 👨‍💻 All of my work is available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
 
