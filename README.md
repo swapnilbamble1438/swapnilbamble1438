@@ -78,3 +78,22 @@ Thymeleaf  &ensp;&ensp;&ensp;&ensp;&ensp; Angular &ensp;&ensp;&ensp;&ensp;&ensp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnilbamble1438&show_icons=true&locale=en" alt="swapnilbamble1438" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilbamble1438&" alt="swapnilbamble1438" /></p>
+
+<hr><hr>
+- ## Projects completed 
+
+- [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApp) - Java J2EE
+
+- [Voting Application](https://github.com/swapnilbamble1438/VotingApp) - Springboot, Thymeleaf
+
+- [Blog Application](https://github.com/swapnilbamble1438/GoBlog) - Java J2EE
+
+- [Contact Manager](https://github.com/swapnilbamble1438/ContactManager) - Springboot, Thymeleaf
+
+-  [Exam Portal](https://github.com/swapnilbamble1438/ExamPortal) - Springboot, Angular
+
+-  [Blog Application / Backend API's Application](https://github.com/swapnilbamble1438/BlogAppApis) - Springboot, React
+
+- [Hotel Ratings](https://github.com/swapnilbamble1438/HotelRatings) - Springboot, Microservices, Thymeleaf
+
+<hr><hr>
