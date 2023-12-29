@@ -80,7 +80,7 @@ Thymeleaf  &ensp;&ensp;&ensp;&ensp;&ensp; Angular &ensp;&ensp;&ensp;&ensp;&ensp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilbamble1438&" alt="swapnilbamble1438" /></p>
 
 <hr><hr>
-## My Java Learning Journey
+<b> My Java Learning Journey </b>
 
 - [1st](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-1) : Core Java - OOPS, Arrays, String, Collection Framework, Exception Handling, Multithreading, DSA
 
