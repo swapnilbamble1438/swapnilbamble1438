@@ -80,20 +80,26 @@ Thymeleaf  &ensp;&ensp;&ensp;&ensp;&ensp; Angular &ensp;&ensp;&ensp;&ensp;&ensp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilbamble1438&" alt="swapnilbamble1438" /></p>
 
 <hr><hr>
-- ## Projects completed 
+## My Java Learning Journey
 
-- [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApp) - Java J2EE
+- [1st](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-1) : Core Java - OOPS, Arrays, String, Collection Framework, Exception Handling, Multithreading, DSA
 
-- [Voting Application](https://github.com/swapnilbamble1438/VotingApp) - Springboot, Thymeleaf
+- [2nd](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-2) : Advance Java - JDBC, Servlet, JSP, J2EE
 
-- [Blog Application](https://github.com/swapnilbamble1438/GoBlog) - Java J2EE
+- [3rd](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-3) : JPA & Hibernate
 
-- [Contact Manager](https://github.com/swapnilbamble1438/ContactManager) - Springboot, Thymeleaf
+- [4th](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-4) : Spring - Spring Core, Spring JDBC, Spring Hibernate, Spring MVC
 
--  [Exam Portal](https://github.com/swapnilbamble1438/ExamPortal) - Springboot, Angular
+-  [5th](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-5) : Spring Security
 
--  [Blog Application / Backend API's Application](https://github.com/swapnilbamble1438/BlogAppApis) - Springboot, React
+-  [6th](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-6) : Springboot - Getting Started with Basics and CRUD
 
-- [Hotel Ratings](https://github.com/swapnilbamble1438/HotelRatings) - Springboot, Microservices, Thymeleaf
+-  [7th](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-7) : Springboot - Springboot Applications, Spring Security
+
+-  [8th](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-8) : Springboot - Springboot Applications with Spring Security and JWT Authentication
+
+-  [9th](https://github.com/swapnilbamble1438/My_Java_Learning_Journey-9) : Springboot Microservices  
+
+
 
 <hr><hr>
