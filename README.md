@@ -30,6 +30,8 @@
 
 - [Voting Application](https://github.com/swapnilbamble1438/VotingApp) - Springboot, Thymeleaf
 
+- [Voting Application](https://github.com/swapnilbamble1438/VotingAppJ2EE) - Java J2EE
+
 - [Blog Application](https://github.com/swapnilbamble1438/GoBlog) - Java J2EE
 
 - [Contact Manager](https://github.com/swapnilbamble1438/ContactManager) - Springboot, Thymeleaf
