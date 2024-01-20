@@ -36,6 +36,8 @@
 
 - [Contact Manager](https://github.com/swapnilbamble1438/ContactManager) - Springboot, Thymeleaf
 
+- [JWT Authentication Application](https://github.com/swapnilbamble1438/JWT_Authentication_with_Thymeleaf_GUI) - Springboot, Thymeleaf
+
 -  [Exam Portal](https://github.com/swapnilbamble1438/ExamPortal) - Springboot, Angular
 
 -  [Blog Application / Backend API's Application](https://github.com/swapnilbamble1438/BlogAppApis) - Springboot, React
