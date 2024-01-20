@@ -44,6 +44,12 @@
 
 - [Hotel Ratings](https://github.com/swapnilbamble1438/HotelRatings) - Springboot, Microservices, Thymeleaf
 
+<hr><hr>
+- [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApplication) - Javascript (This Javascript version is just made for presentation for Java J2EE version of the Ecommerce Application)
+
+- [Voting Application](https://github.com/swapnilbamble1438/VotingApplication) - Javascript (This Javascript version is just made for presentation for Springboot and Java J2EE version of the Voting Application)
+<hr><hr>
+
 - 👨‍💻 All of my work is available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
 
 - 📫 How to reach me **swapnilbamble4@gmail.com**
