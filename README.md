@@ -4,25 +4,11 @@
 
 
 <h1>Hi 👋, I'm Swapnil Bamble</h1>                              
-<h3>Learning Fullstack Development in Java</h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
 
 - Lives in Thane, Maharashtra
 
--  BSC (Computer Science) Graduate from University of Mumbai
-
--  Completed Certification in Fullstack Development in Java
-
--  Fresher
-
--  But almost two years of learning experience in Java
-
-- And good knowledge base for developing Java J2EE and Springboot Applications
-
-- <h3> Currently looking for an opportunity to work as a Java Developer</h3>
-  
-- 🌱 I’m currently learning **Springboot Microservices**
 
 - ## Projects completed 
 
