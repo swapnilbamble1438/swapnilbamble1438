@@ -1,5 +1,5 @@
 
-<img align="right" alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/99226683-126a-4d3a-95dc-401b1057dec1" height="400px">
+<img align="right" alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/99226683-126a-4d3a-95dc-401b1057dec1" height="300px">
 
 
 
