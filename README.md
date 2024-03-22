@@ -8,11 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
 
-- Lives in Thane, Maharashtra
+- From Thane, Maharashtra
   
-- BSc (Computer Science) Graduate
-
-
 - ## Projects completed 
 
 - [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApp) - Java J2EE
