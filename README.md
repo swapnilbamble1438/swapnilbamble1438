@@ -6,9 +6,9 @@
 
 - A Passionate Programmer
 
-- From Thane, Maharashtra
+- From Mumbai
 
-- 
+
 - ## Projects completed 
 
 - [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApp) - Java J2EE
