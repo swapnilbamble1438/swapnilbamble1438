@@ -1,12 +1,10 @@
 
-<img align="right"  alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/1e27892d-7b45-49a4-88eb-0dfe6d4155a3" height="175px">
-
-
 
 <h1>Hi 👋, I'm Swapnil Bamble</h1>                              
 
+<img align="right"  alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/1e27892d-7b45-49a4-88eb-0dfe6d4155a3" height="175px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
+- A Passionate Programmer
 
 - From Thane, Maharashtra
   
@@ -38,6 +36,9 @@
 - 👨‍💻 All of my work is available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
 
 - 📫 How to reach me **swapnilbamble4@gmail.com**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilbamble1438&label=Profile%20views&color=0e75b6&style=flat" alt="swapnilbamble1438" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
