@@ -2,10 +2,9 @@
 
 <h1>Hi 👋, I'm Swapnil Bamble</h1>                              
 
+<img align="right"  alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/1e27892d-7b45-49a4-88eb-0dfe6d4155a3" height="110px">
 
 - A Passionate Programmer
-
-<img align="right"  alt="imggiphy" src="https://github.com/swapnilbamble1438/swapnilbamble1438/assets/87333390/1e27892d-7b45-49a4-88eb-0dfe6d4155a3" height="120px">
 
 - From Thane, Maharashtra
   
