@@ -9,7 +9,7 @@
 - From Mumbai
 
 
-- ## Projects completed 
+- ## 👨‍💻 Projects completed 
 
 - [Ecommerce Application](https://github.com/swapnilbamble1438/EcommerceApp) - Java J2EE
 
