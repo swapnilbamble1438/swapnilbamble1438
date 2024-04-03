@@ -34,7 +34,7 @@
 - [Voting Application](https://github.com/swapnilbamble1438/VotingApplication) - Javascript (This Javascript version is just made for presentation for Springboot and Java J2EE version of the Voting Application)
 
 
-- 👨‍💻 All of my work is available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
+- 👨‍💻 All of my work are available at [My Repositories](https://github.com/swapnilbamble1438?tab=repositories)
 
 - 📫 How to reach me **swapnilbamble4@gmail.com**
 
